@@ -1,1 +1,6 @@
 Fibonacci series
+
+Some suggestions of algorithms for computing the Fibonacci numbers addressing iterative, recursive and functional paradigms.
+
+More information on:
+https://www.codeproject.com/Articles/810707/Algorithmic-approaches-for-computing-the-Fibonacci
