@@ -1,4 +1,4 @@
-Fibonacci series
+# Fibonacci series
 
 Some suggestions of algorithms for computing the Fibonacci numbers addressing iterative, recursive and functional paradigms.
 
