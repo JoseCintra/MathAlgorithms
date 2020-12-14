@@ -1,6 +1,6 @@
 // Purpose: Get a Fibonacci number through the Binet's Formula 
 // Linguagem: C++
-// Author: Jose Cintra (jose.cintra@html-apps.info)
+// Author: Jose Cintra (josecintra@josecintra.com)
 
 #include <iostream>
 #include <stdlib.h>
