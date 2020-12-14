@@ -1,7 +1,7 @@
 # Approximation of the number PI through the Nilakantha's series
 # Arbitrary precision
 # Language: Python
-# Author: Jose Cintra (jose.cintra@html-apps.info)
+# Author: Jose Cintra (josecintra@josecintra.com)
 
 from decimal import *
 getcontext().prec = 100
