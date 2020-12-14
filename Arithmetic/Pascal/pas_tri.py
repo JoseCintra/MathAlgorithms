@@ -1,7 +1,7 @@
 # Purpose: Printing the Pascal's Triangle recursively using the Stifel's Relation
 # Parameter: The number of rows you want 
 # Language: Python 2.X.X
-# Author: Jose Cintra (jose.cintra@html-apps.info)
+# Author: Jose Cintra (josecintra@josecintra.com)
 
 def triangulo(n,k):
 
