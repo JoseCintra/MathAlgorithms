@@ -1,7 +1,7 @@
 {
 Purpose: Get a Fibonacci number in a recursive way 
 Linguagem: Pascal
-Author: Jose Cintra (jose.cintra@html-apps.info)
+Author: Jose Cintra (josecintra@josecintra.com)
 }
 
 var
