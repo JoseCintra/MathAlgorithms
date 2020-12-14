@@ -1,6 +1,6 @@
 // Approximation of the number PI through the Leibniz's series
 // Language: C
-// Author: Jose Cintra (jose.cintra@html-apps.info)
+// Author: Jose Cintra (josecintra@josecintra.com)
 
 #include <stdio.h>
 #include <stdlib.h>
