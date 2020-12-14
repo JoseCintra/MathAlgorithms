@@ -1,7 +1,7 @@
 // Purpose: Printing the Pascal's triangle iteratively using the Stifel's Relation 
 // Parameter: The number of rows you want 
 // Language: C++
-// Author: Jose Cintra (jose.cintra@html-apps.info)
+// Author: Jose Cintra (josecintra@josecintra.com)
 
 #include <iostream>
 #include <stdlib.h>
