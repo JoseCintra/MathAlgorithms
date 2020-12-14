@@ -1,6 +1,6 @@
 Purpose: Get a Fibonacci number in a functional way 
 Linguagem: Haskell
-Author: Jose Cintra (jose.cintra@html-apps.info)
+Author: Jose Cintra (josecintra@josecintra.com)
 
 fibo :: Int -> Int
 fibolist :: [Int]
