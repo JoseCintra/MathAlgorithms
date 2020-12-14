@@ -1,6 +1,6 @@
 // Purpose: Computing the fibonacci numbers in a Iterative way
 // Language: C
-// Author: Jose Cintra (jose.cintra@html-apps.info)
+// Author: Jose Cintra (josecintra@josecintra.com)
   
 main() { 
 
