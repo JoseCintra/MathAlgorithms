@@ -1,4 +1,4 @@
-# Calculating the Number PI Through Infinite Sequences
+# Calculating the Number PI Through Infinite Series
 
 Iterative algorithms for computing approximations to the number PI through infinite series using double and arbitrary precision
 
