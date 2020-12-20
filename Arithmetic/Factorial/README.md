@@ -2,7 +2,7 @@
 
 Simple algorithms to calculate factorials in the Fortran language.
 
-More information:
+More information: 
 
 https://www.mathsisfun.com/numbers/factorial.html
 
