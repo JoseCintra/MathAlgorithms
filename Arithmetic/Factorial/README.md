@@ -1,8 +1,8 @@
 # Factorial calculations
 
-Simple algorithms to calculate factorials in the Fortran language
+Simple algorithms to calculate factorials in the Fortran language.
 
-More informations:
+More information:
 
 https://www.mathsisfun.com/numbers/factorial.html
 
