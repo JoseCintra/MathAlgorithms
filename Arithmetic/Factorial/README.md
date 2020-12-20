@@ -1,6 +1,6 @@
 # Factorial calculations
 
-ConvergentSeries - Simple algorithms to calculate factorials in the Fortran language
+Simple algorithms to calculate factorials in the Fortran language
 
 More informations:
 
