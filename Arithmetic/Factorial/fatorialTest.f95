@@ -1,4 +1,4 @@
-! File: factorialTest.f95
+! File: factorialTest.f95 
 ! Purpose: Function that calculates the factorial of a given number and a test program
 ! documentation: https://github.com/JoseCintra/MathAlgorithms
 ! Language: Fortran 95
