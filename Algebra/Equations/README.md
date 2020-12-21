@@ -2,7 +2,7 @@
 
 Algorithms involving equations in general
 
-More info:
+Theoretical basis:
 
 https://ekuatio.com/en/how-to-solve-second-degree-equations-step-by-step-resolved-exercises/
 
