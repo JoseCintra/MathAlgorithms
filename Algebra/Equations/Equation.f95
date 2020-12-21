@@ -53,7 +53,7 @@ PROGRAM Equation
       END IF
    END IF
 
-   ! Output
+   ! END
    PRINT *,""
    WRITE (*, '(a)') "END of execution"
 
