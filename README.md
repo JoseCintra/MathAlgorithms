@@ -25,4 +25,9 @@ Collection of mathematical algorithms solved in several programming languages. T
 * [Triangle](https://github.com/JoseCintra/MathAlgorithms/blob/master/Geometry/Triangle/TriangleType.lua) - Algorithm for Triangles Classification (Lua language)
 
 
-* 
+ | Name/Link | Description | Language |
+ | --- | --- | --- |    
+ |[Equation](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algebra/Equations/Equation.f95)|Calculates the roots of equations up to the second degre | C |
+ |[Convergent Series](https://github.com/JoseCintra/MathAlgorithms/blob/master/Arithmetic/ConvergentSeries/ConvergentSeries.py)|Calculates the roots of equations up to the second degree|Fortran|
+ | [Convergent Series](https://github.com/JoseCintra/MathAlgorithms/blob/master/Arithmetic/ConvergentSeries/ConvergentSeries.py) |Calculating some convergent series |Python|
+ 
