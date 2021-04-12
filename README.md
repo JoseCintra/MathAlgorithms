@@ -17,9 +17,9 @@ Collection of mathematical algorithms solved in several programming languages. T
  |[PI by Nilakantha](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PI_Nilakantha1.c)|Approximation of the number pi through the Nilakantha's series|C|
  |[PI by Wallis](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PI_Wallis.c)|Approximation of the number pi through the Wallis's series|C|
  |[PI by Viete](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PI_viete.c)|Approximation of the number PI through the Viete's series|C|  
-
+\  
   
-\### Algebra
+### Algebra
  | Name/Link | Description | Language |
  | --- | --- | --- |    
  |[Polygonal Equation Up To 2](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PolyEquationUpTo2.f95)|Calculates the roots of equations up to the second degre | Fortran |  
