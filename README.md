@@ -19,7 +19,7 @@ Collection of mathematical algorithms solved in several programming languages. T
  |[PI by Viete](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PI_viete.c)|Approximation of the number PI through the Viete's series|C|  
 
   
-### Algebra
+\### Algebra
  | Name/Link | Description | Language |
  | --- | --- | --- |    
  |[Polygonal Equation Up To 2](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PolyEquationUpTo2.f95)|Calculates the roots of equations up to the second degre | Fortran |  
