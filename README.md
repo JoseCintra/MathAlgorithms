@@ -18,13 +18,13 @@ Collection of mathematical algorithms solved in several programming languages. T
  |[PI by Wallis](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PI_Wallis.c)|Approximation of the number pi through the Wallis's series|C|
  |[PI by Viete](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PI_viete.c)|Approximation of the number PI through the Viete's series|C|
 
-<br>
+  
 ### Algebra
  | Name/Link | Description | Language |
  | --- | --- | --- |    
  |[Polygonal Equation Up To 2](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PolyEquationUpTo2.f95)|Calculates the roots of equations up to the second degre | Fortran |
 
-<br>
+  
 ### Arithmetics & Number theory
  | Name/Link | Description | Language |
  | --- | --- | --- |    
@@ -35,7 +35,7 @@ Collection of mathematical algorithms solved in several programming languages. T
  |[Polygonal Numbers 1](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PolygonalNumbers1.lua)|Generates a sequence of polygonal numbers|Lua|
  |[Polygonal Numbers 2](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PolygonalNumbers2.py)|Generates sequences of polygonal numbers|Python|
  
-<br>
+  
 ### Geometry
  | Name/Link | Description | Language |
  | --- | --- | --- |     
