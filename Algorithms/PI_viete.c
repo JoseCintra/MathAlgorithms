@@ -6,7 +6,7 @@
 // Year:          2018
 // Web Site:      https://github.com/JoseCintra/MathAlgorithms
 // License:       Unlicense, described in http://unlicense.org
-
+// Online demo:   https://onlinegdb.com/BJOtxIfUO
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -18,9 +18,11 @@ int main() {
    double pi = 1;
       
    printf("Approximation of the number PI through the Viete's series\n");
-   printf("\nEnter the number of iterations: ");
-   scanf("%lf",&n);
-   printf("\nPlease wait. Running...\n");   
+
+
+   n = 1000; // Change this to test other input values
+
+   printf("\nPlease wait. Running for %lf iterations...\n",n);   
 	
    for(i = n; i > 1; i--) {
       f = 2;

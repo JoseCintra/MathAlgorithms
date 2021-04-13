@@ -6,6 +6,7 @@
  Year:          2020
  Web Site:      https://github.com/JoseCintra/MathAlgorithms
  License:       Unlicense, described in http://unlicense.org
+ Online demo:   https://onlinegdb.com/ry7W-vGUu
 }
 
 var
@@ -21,7 +22,9 @@ end;
 
 begin
 writeln('The Fibonacci Numbers');
-write('Enter the element''s position: ');
-readln(index);
+
+{Change this to test other input values}
+index := 7;
+
 writeln('The element in this position is: ',Fibo(index));
 end.

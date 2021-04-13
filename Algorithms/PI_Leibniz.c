@@ -6,6 +6,7 @@
 // Year:          2018
 // Web Site:      https://github.com/JoseCintra/MathAlgorithms
 // License:       Unlicense, described in http://unlicense.org
+// Live demo:     https://onlinegdb.com/BJ3jP4GUO
 
 
 #include <stdio.h>
@@ -17,10 +18,11 @@ main() {
    double s = 1;     //Signal for the next iteration
    double pi = 0;
 
+   n = 1000; // Change this to test other input values
+
    printf("Approximation of the number PI through the Leibniz's series\n");
-   printf("\nEnter the number of iterations: ");	
-   scanf("%lf",&n);
-   printf("\nPlease wait. Running...\n");      
+
+   printf("\nPlease wait. Running %lf iterations...\n",n);      
 
    for(i = 1; i <= (n * 2); i += 2){
      pi = pi + s * (4 / i);

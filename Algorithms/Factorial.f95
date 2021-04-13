@@ -7,6 +7,7 @@
 ! Year:          2020
 ! Web Site:      https://github.com/JoseCintra/MathAlgorithms
 ! License:       Unlicense, described in http://unlicense.org
+! Online demo:   https://onlinegdb.com/Syk6M8G8d
 
 MODULE math
 ! Mathemathical functions
@@ -59,27 +60,19 @@ PROGRAM factorialTest
    INTEGER :: fact ! Calculated factorial
    WRITE (*,'(a)') "Factorial calculation"
 
-   ! Main Loop
-   DO
       ! Data entry
-      PRINT *,""
-      WRITE (*,'(a)')"Enter a positive integer to calculate factorial or a negative number to exit"
-      WRITE (*, '(a)', advance='no') '--> '
-      read *, num
-      IF (NUM < 0) THEN
-        EXIT
-      END IF
+   PRINT *,""
+      
+   ! Change this to test other input values  
+   num = 5 
 
-      ! Output
-      fact = factorial(num)
-      WRITE (*, '(a,I0,a,I0)') "The factorial of the number ", num, " is ", fact
-      fact = recFactorial(num)
-      WRITE (*, '(a,I0,a,I0)') "The recursive factorial of the number ", num, " is ", fact
+   ! Output
+   fact = factorial(num)
+   WRITE (*, '(a,I0,a,I0)') "The factorial of the number ", num, " is ", fact
+   fact = recFactorial(num)
+   WRITE (*, '(a,I0,a,I0)') "The recursive factorial of the number ", num, " is ", fact
 
-   END DO
    PRINT *,""
    WRITE (*, '(a)') "END of execution"
 
 END PROGRAM factorialTest
-
-

@@ -6,7 +6,7 @@
 ! Year:          2020
 ! Web Site:      https://github.com/JoseCintra/MathAlgorithms
 ! License:       Unlicense, described in http://unlicense.org
-
+! Online demo:   https://onlinegdb.com/S1SvELfLd
 
 PROGRAM Equation
 
@@ -17,22 +17,10 @@ PROGRAM Equation
    REAL :: delta  ! For Bhaskara formula
 
    ! Data entry
-   ! A coefficient
-   WRITE (*,'(a)') "Calculation of the roots of first and second degree equations"
-   PRINT *,""
-   WRITE (*,'(a)')"Enter the value of the A coefficient. (Zero for first degree equations)"
-   WRITE (*, '(a)', advance='no') '--> '
-   read *, a
-   ! B coefficient
-   PRINT *,""
-   WRITE (*,'(a)')"Enter the value of the B coefficient."
-   WRITE (*, '(a)', advance='no') '--> '
-   read *, b
-   ! C coefficient
-   PRINT *,""
-   WRITE (*,'(a)')"Enter the value of the C coefficient."
-   WRITE (*, '(a)', advance='no') '--> '
-   read *, c
+   ! Change these Coefficients to test other input values
+   a = 3
+   b = 4
+   c = 0
 
    ! Calculations
    PRINT *,""

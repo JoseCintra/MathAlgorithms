@@ -6,9 +6,12 @@
 # Year:          2020
 # Web Site:      https:#github.com/JoseCintra/MathAlgorithms
 # License:       Unlicense, described in http://unlicense.org
+# Online demo:   https://onlinegdb.com/rkE0DLG8u
 
 print("Sequences of Polygonal Numbers\n")
-n = int(input("Enter the number of terms in the sequences: "))
+
+# Change this to test other input values
+n = 5
 
 polyFormulas = {'Triangular': '(i*(i+1))/2',
                 'Square': 'i*i',

@@ -6,7 +6,7 @@
 // Year:          2018
 // Web Site:      https://github.com/JoseCintra/MathAlgorithms
 // License:       Unlicense, described in http://unlicense.org
-
+// Online demo:   https://onlinegdb.com/r1Wo-LzLd
 
 #include <iostream>
 #include <stdlib.h>
@@ -14,10 +14,11 @@
 using namespace std;
 int main(int argc, char *argv[])
   {
-  int N;
+  int N; // Desired number of lines
   cout << "The Pascal's Triangle\n";
-  cout << "Enter the number of lines: "; 
-  cin >> N;
+  
+  N = 3; // Change this to test other input values
+
   int T[N][N];
   // generates Triangle using the Stifel's Relation
   for (int L = 0;(L<N);L++)

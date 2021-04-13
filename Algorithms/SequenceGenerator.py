@@ -6,6 +6,7 @@
 # Year:          2020
 # Web Site:      https:#github.com/JoseCintra/MathAlgorithms
 # License:       Unlicense, described in http://unlicense.org
+# Online demo:   https://onlinegdb.com/H1J8_Uz8u
 
 # initialization
 import math 
@@ -23,7 +24,9 @@ formulas = {'Fibonacci numbers': ['round((pow((1+math.sqrt(5))/2,i)-pow((1-math.
 
 # Data entry
 print("Mathematical sequences generator\n")
-n = int(input("Enter the number of terms in the sequence: "))
+
+# Change this to test other input values
+n = 5
 
 # shows the sequences
 for key,value in formulas.items():
