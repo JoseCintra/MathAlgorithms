@@ -6,7 +6,7 @@ Collection of mathematical algorithms solved in several programming languages. Y
 ### Series & Sequences
  | Source Code | Description | Language |
  | --- | --- | --- |    
- |[Convergent Series](https://onlinegdb.com/SJXSBLfLO){:target="_blank" rel="noopener"}|Calculating some convergent series |Python|
+ |[Convergent Series](https://onlinegdb.com/SJXSBLfLO)|Calculating some convergent series |Python|
  |[Fibonacci](https://onlinegdb.com/HkxkTkIMLO)|Computing the fibonacci numbers in a Iterative way|C|
  |[Fibonacci](https://onlinegdb.com/HygwZUfUO)|Get a Fibonacci number through the Binet's Formula|C++|
  |[Fibonacci](https://onlinegdb.com/ry7W-vGUu)|Get a Fibonacci number in a recursive way|Pascal|
