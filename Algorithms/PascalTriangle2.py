@@ -6,7 +6,7 @@
 # Year:          2018
 # Web Site:      https://github.com/JoseCintra/MathAlgorithms
 # License:       Unlicense, described in http://unlicense.org
-// Online demo:  https://onlinegdb.com/S1MSvLfIu
+# Online demo:   https://onlinegdb.com/S1MSvLfIu
 
 def triangulo(n,k):
 
