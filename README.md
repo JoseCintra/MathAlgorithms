@@ -15,15 +15,23 @@ Collection of mathematical algorithms solved in several programming languages. Y
  |[PI by Nilakantha](https://onlinegdb.com/ByvfxUMUO)|Approximation of the number pi through the Nilakantha's series|C|
  |[PI by Wallis](https://onlinegdb.com/rJ6g-Uz8O)|Approximation of the number pi through the Wallis's series|C|
  |[PI by Viete](https://onlinegdb.com/BJOtxIfUO)|Approximation of the number PI through the Viete's series|C|  
+ 
+   
 
-    
+### Vectors & Matrices
+ | Source Code | Description | Language |
+ | --- | --- | --- |    
+ |[Sum of matrices](https://onlinegdb.com/HyhhwJrLu)|Performs the sum of any two matrices|Python|   
+ |[Matrix subtraction](https://onlinegdb.com/ByWG_1BUd)|Performs the subtraction of any two matrices|Python|    
+ 
+   
   
 ### Algebra
  | Source Code | Description | Language |
  | --- | --- | --- |    
  |[Polygonal Equation Up To 2](https://onlinegdb.com/S1SvELfLd)|Calculates the roots of equations up to the second degree | Fortran |  
 
-  
+     
   
 ### Arithmetics & Number theory
  | Source Code | Description | Language |
