@@ -23,7 +23,7 @@ Collection of mathematical algorithms solved in several programming languages. Y
  | --- | --- | --- |    
  |[Sum of matrices](https://onlinegdb.com/HyhhwJrLu)|Performs the sum of any two matrices|Python|   
  |[Matrix subtraction](https://onlinegdb.com/ByWG_1BUd)|Performs the subtraction of any two matrices|Python|    
- |[Matrix transpose](https://onlinegdb.com/ByWG_1BUd)|Program to find transpose of a matrix|Python|
+ |[Matrix transpose](https://onlinegdb.com/r1jocr_Ld)|Program to find transpose of a matrix|Python|
    
   
 ### Algebra
