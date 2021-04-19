@@ -18,13 +18,13 @@ Collection of mathematical algorithms solved in several programming languages. Y
  
    
 
-### Vectors & Matrices
+### Matrices & Determinants
  | Source Code | Description | Language |
  | --- | --- | --- |    
  |[Sum of matrices](https://onlinegdb.com/HyhhwJrLu)|Performs the sum of any two matrices|Python|   
  |[Matrix subtraction](https://onlinegdb.com/ByWG_1BUd)|Performs the subtraction of any two matrices|Python|    
  |[Matrix transpose](https://onlinegdb.com/r1jocr_Ld)|Program to find transpose of a matrix|Python|
-   
+ |[Multiplication of matrices](https://onlinegdb.com/BJITFZi8u)|Performs the product of any two matrices|Python|
   
 ### Algebra
  | Source Code | Description | Language |
