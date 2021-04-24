@@ -42,7 +42,8 @@ Collection of mathematical algorithms solved in several programming languages. Y
  |[Pascal Triangle](https://onlinegdb.com/r1Wo-LzLd)|Printing the Pascal's triangle iteratively using the Stifel's Relation|C++|
  |[Polygonal Numbers](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PolygonalNumbers1.lua)|Generates a sequence of polygonal numbers|Lua|
  |[Polygonal Numbers](https://onlinegdb.com/rkE0DLG8u)|Generates sequences of polygonal numbers|Python|  
- 
+ |[Convert to Decimal](https://www.mycompiler.io/view/3Y2U27b)|Conversion from numeric bases to decimal base|Lua|  
+  
   
   
 ### Geometry
