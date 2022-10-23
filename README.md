@@ -43,7 +43,7 @@ Collection of mathematical algorithms solved in several programming languages. Y
  |[Polygonal Numbers](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PolygonalNumbers1.lua)|Generates a sequence of polygonal numbers|Lua|
  |[Polygonal Numbers](https://onlinegdb.com/rkE0DLG8u)|Generates sequences of polygonal numbers|Python|  
  |[Convert to Decimal](https://www.mycompiler.io/view/3Y2U27b)|Conversion from numeric bases to decimal base|Lua|  
- |[Primality Test](https://onlinegdb.com/OlZWL53X4)|Primality Test by Trial Division 6k+1|GO| 
+ |[Primality Test](https://onlinegdb.com/KnoyYgXjs)|Primality Test by Trial Division 6k+1|GO| 
   
   
   
