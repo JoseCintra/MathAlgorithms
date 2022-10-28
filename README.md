@@ -45,7 +45,7 @@ Collection of mathematical algorithms solved in several programming languages. Y
  |[Convert to Decimal](https://www.mycompiler.io/view/3Y2U27b)|Conversion from numeric bases to decimal base|Lua|  
  |[Get the next prime number](https://onlinegdb.com/HXhFDBLrP)|Given a natural number, find the next prime number greater than it|GO| 
  |[Fundamental Theorem of Arithmetic](https://onlinegdb.com/iKptQMkcn)|Given a natural number N, calculate all its prime factors|GO|   
- |[Number of divisors of a number]https://onlinegdb.com/Uu0EEq7Ez|Calculates the number of divisors of a given number by prime factorization|GO|    
+ |[Number of divisors of a number](https://onlinegdb.com/Uu0EEq7Ez)|Calculates the number of divisors of a given number by prime factorization|GO|    
   
   
 ### Geometry
