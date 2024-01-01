@@ -11,10 +11,7 @@ Collection of mathematical algorithms solved in several programming languages. Y
  |[Fibonacci](https://onlinegdb.com/HygwZUfUO)|Get a Fibonacci number through the Binet's Formula|C++|
  |[Fibonacci](https://onlinegdb.com/ry7W-vGUu)|Get a Fibonacci number in a recursive way|Pascal|
  |[Sequence Generator](https://onlinegdb.com/H1J8_Uz8u)|Generates several mathematical sequences by calculating their terms individually|Python|
- |[PI by Leibniz](https://onlinegdb.com/BJ3jP4GUO)|Approximation of the number PI through the Leibniz's series|C|
- |[PI by Nilakantha](https://onlinegdb.com/ByvfxUMUO)|Approximation of the number pi through the Nilakantha's series|C|
- |[PI by Wallis](https://onlinegdb.com/rJ6g-Uz8O)|Approximation of the number pi through the Wallis's series|C|
- |[PI by Viete](https://onlinegdb.com/BJOtxIfUO)|Approximation of the number PI through the Viete's series|C|  
+ |[Recamán's Sequence]([https://onlinegdb.com/BJOtxIfUO](https://www.mycompiler.io/view/0m8JKd9ag87))|Print first n elements of Recamán's sequence|Lua|  
 
 
 ### Algorithms with the number PI
