@@ -23,32 +23,31 @@ CONTAINS
       INTEGER :: i
 
       !Calculation
-      factorial = 1
-      DO i = 1,num
-        factorial = factorial * i
+   factorial = 1
+      DO i = 1, num
+         factorial = factorial*i
       END DO
       RETURN
 
    END FUNCTION factorial
 
-  ! Function to calculate the factorial in a recursive way
-  RECURSIVE FUNCTION recFactorial (num) RESULT (res)
+   ! Function to calculate the factorial in a recursive way
+   RECURSIVE FUNCTION recFactorial(num) RESULT(res)
 
-    ! Variables
-    INTEGER, INTENT(IN) :: num
-    INTEGER :: res
+      ! Variables
+      INTEGER, INTENT(IN) :: num
+      INTEGER :: res
 
-    !Calculation
-    IF (num <= 1) THEN
-       res = 1
-    ELSE
-       res = recFactorial(num-1) * num
-    END IF
+      !Calculation
+      IF (num <= 1) THEN
+         res = 1
+      ELSE
+         res = recFactorial(num - 1)*num
+      END IF
 
-  END FUNCTION recFactorial
+   END FUNCTION recFactorial
 
 END MODULE
-
 
 PROGRAM factorialTest
 
@@ -58,13 +57,13 @@ PROGRAM factorialTest
    IMPLICIT NONE
    INTEGER :: num  ! User's number to calculate factorial
    INTEGER :: fact ! Calculated factorial
-   WRITE (*,'(a)') "Factorial calculation"
+   WRITE (*, '(a)') "Factorial calculation"
 
-      ! Data entry
-   PRINT *,""
-      
-   ! Change this to test other input values  
-   num = 5 
+   ! Data entry
+   PRINT *, ""
+
+   ! Change this to test other input values
+   num = 5
 
    ! Output
    fact = factorial(num)
@@ -72,7 +71,7 @@ PROGRAM factorialTest
    fact = recFactorial(num)
    WRITE (*, '(a,I0,a,I0)') "The recursive factorial of the number ", num, " is ", fact
 
-   PRINT *,""
+   PRINT *, ""
    WRITE (*, '(a)') "END of execution"
 
 END PROGRAM factorialTest
