@@ -2,7 +2,7 @@
 | Source Code | Description | Language |
 | --- | --- | --- |    
 |[Primality Test](https://www.mycompiler.io/view/KCIHakbZKl6)|Determines whether the given number (num) is prime or not, using the trial division (6k + 1) method|GO|
-|[Factorial](https://onlinegdb.com/Syk6M8G8d)|Calculates the factorial of a given number|Fortran|
+|[Factorial](https://onlinegdb.com/Syk6M8G8d)|Calculates the factorial of a given number using iterative and recursive methods |Fortran|
 |[Factorial](https://www.mycompiler.io/view/FJfAEmzfV6k)|Calculate a recursive factorial of a number|Lua|
 |[Double Factorial](https://www.mycompiler.io/view/HKJnNGeyDaf)|Calculates a recursive double factorial of a number|Lua| 
 |[Polygonal Numbers](https://github.com/JoseCintra/MathAlgorithms/blob/master/Algorithms/PolygonalNumbers1.lua)|Generates a sequence of polygonal numbers|Lua|
