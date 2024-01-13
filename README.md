@@ -8,12 +8,7 @@ Collection of mathematical algorithms solved in several programming languages. Y
 [Number PI](https://github.com/JoseCintra/MathAlgorithms/tree/master/Number%20PI)   
 
 
-### Algebra
- | Source Code | Description | Language |
- | --- | --- | --- |    
- |[Polygonal Equation Up To 2](https://onlinegdb.com/S1SvELfLd)|Calculates the roots of equations up to the second degree | Fortran |  
-
-     
+    
   
 ### Arithmetics & Number theory
  | Source Code | Description | Language |
