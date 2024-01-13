@@ -3,8 +3,8 @@ Collection of mathematical algorithms solved in several programming languages. Y
 
 ## Branches
 
-[Linear Algebra](https://github.com/JoseCintra/MathAlgorithms/tree/master/Linear%20Algebra)
-[Sequences & Series](https://github.com/JoseCintra/MathAlgorithms/tree/master/Sequences%20&%20Series)
+[Linear Algebra](https://github.com/JoseCintra/MathAlgorithms/tree/master/Linear%20Algebra)   
+[Sequences & Series](https://github.com/JoseCintra/MathAlgorithms/tree/master/Sequences%20&%20Series)   
 
 
 
