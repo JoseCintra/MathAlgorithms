@@ -1,7 +1,9 @@
 # MathAlgorithms
 Collection of mathematical algorithms solved in several programming languages. You can download the source code or run it online right here.
 
-## List of algorithms
+## Branches
+
+[Linear Algebra]([https://onlinegdb.com/SJXSBLfLO](https://github.com/JoseCintra/MathAlgorithms/tree/master/Linear%20Algebra))
 
 ### Series & Sequences
  | Source Code | Description | Language |
