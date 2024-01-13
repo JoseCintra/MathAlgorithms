@@ -5,6 +5,8 @@ Collection of mathematical algorithms solved in several programming languages. Y
 
 [Linear Algebra](https://github.com/JoseCintra/MathAlgorithms/tree/master/Linear%20Algebra)   
 [Sequences & Series](https://github.com/JoseCintra/MathAlgorithms/tree/master/Sequences%20&%20Series)   
+[Number PI](https://github.com/JoseCintra/MathAlgorithms/tree/master/Number%20PI)   
+
 
 ### Algebra
  | Source Code | Description | Language |
