@@ -3,7 +3,7 @@ Collection of mathematical algorithms solved in several programming languages. Y
 
 ## Branches
 
-[Linear Algebra]([https://onlinegdb.com/SJXSBLfLO](https://github.com/JoseCintra/MathAlgorithms/tree/master/Linear%20Algebra))
+[Linear Algebra](https://github.com/JoseCintra/MathAlgorithms/tree/master/Linear%20Algebra)
 
 ### Series & Sequences
  | Source Code | Description | Language |
