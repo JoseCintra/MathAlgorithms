@@ -1,7 +1,7 @@
 ### Arithmetics 
 | Source Code | Description | Language |
 | --- | --- | --- |   
-|[Primality Test](https://www.mycompiler.io/view/KCIHakbZKl6)|Determines whether the given number (num) is prime or not, using the trial division (6k + 1) method|GO|
+|[Primality Test](https://www.mycompiler.io/view/KCIHakbZKl6)|Determines if the given number is prime, using the trial division (6k + 1) method|GO|
 |[Prime Factorization](https://www.mycompiler.io/view/CV1HnvBNPQp)|Calculates then Prime Factorization of a given number|GO|
 |[Next Prime](https://onlinegdb.com/HXhFDBLrP)|Given a natural number, find the next prime number greater than it|GO| 
 |[Fundamental Theorem of Arithmetic](https://onlinegdb.com/iKptQMkcn)|Given a natural number N, calculate all its prime factors|GO|   
