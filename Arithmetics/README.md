@@ -2,9 +2,8 @@
 | Source Code | Description | Language |
 | --- | --- | --- |   
 |[Primality Test](https://www.mycompiler.io/view/KCIHakbZKl6)|Determines if the given number is prime, using the trial division (6k + 1) method|GO|
-|[Prime Factorization](https://www.mycompiler.io/view/CV1HnvBNPQp)|Calculates then Prime Factorization of a given number|GO|
+|[Prime Factorization](https://www.mycompiler.io/view/CV1HnvBNPQp)|Calculates the Prime Factorization of a given number|GO|
 |[Next Prime](https://onlinegdb.com/HXhFDBLrP)|Given a natural number, find the next prime number greater than it|GO| 
-|[Fundamental Theorem of Arithmetic](https://onlinegdb.com/iKptQMkcn)|Given a natural number N, calculate all its prime factors|GO|   
 |[Number of Divisors of a Number](https://onlinegdb.com/Uu0EEq7Ez)|Calculates the number of divisors of a given number by prime factorization|GO|    
 |[Least Common Multiple](https://onlinegdb.com/_EUdMcORD)|Calculate the LCM of two or more numbers|GO|      
 |[Factorial](https://onlinegdb.com/Syk6M8G8d)|Calculates the factorial of a given number using iterative and recursive methods |Fortran|
