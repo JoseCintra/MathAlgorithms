@@ -2,6 +2,7 @@
  | Source Code | Description | Language |
  | --- | --- | --- |    
  |[Convergent Series](https://onlinegdb.com/SJXSBLfLO)|Calculating some convergent series |Python|
+ |[Lucas Numbers](http://tpcg.io/_SRY2SD)|Recursively calculates the nth Lucas number |Lua|
  |[Fibonacci](https://onlinegdb.com/HkxkTkIMLO)|Computing the fibonacci numbers in a Iterative way|C|
  |[Fibonacci](https://onlinegdb.com/HygwZUfUO)|Get a Fibonacci number through the Binet's Formula|C++|
  |[Fibonacci](https://onlinegdb.com/ry7W-vGUu)|Get a Fibonacci number in a recursive way|Pascal|
