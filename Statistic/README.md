@@ -1,9 +1,9 @@
 ### Statistic
-| Source Code | Description | Language |
-| --- | --- | --- |    
-|[Arithmetic Mean](http://tpcg.io/ZLH0SC)|Calculates the arithmetic mean of a dataset|Dart| 
-|[Statistical Median](http://tpcg.io/5L2GTE)|Calculates the statistical median of a dataset|Dart| 
-|[Statistical Mode](http://tpcg.io/0HP1SZ)|Calculates the statistical mode of a dataset|Dart|  
-|[Pythagorean Means](https://go.dev/play/p/BlihwbREtko)|Calculate the Pythagorean means of a dataset|GO|  
-|[Percentiles](https://go.dev/play/p/UDNL1hsjDfg)|Calculates the nth percentile of a data set|GO| 
+| Name | Description | Language | Run Online | source Code!
+| --- | --- | --- | --- | --- | --- |  
+| --- |Calculates the arithmetic mean of a dataset|[Arithmetic Mean](http://tpcg.io/ZLH0SC)|Dart|--- |  
+| --- |Calculates the statistical median of a dataset|[Statistical Median](http://tpcg.io/5L2GTE)|Dart|--- |  
+| --- |Calculates the statistical mode of a dataset|[Statistical Mode](http://tpcg.io/0HP1SZ)|Dart|--- |    
+| --- |Calculate the Pythagorean means of a dataset|[Pythagorean Means](https://go.dev/play/p/BlihwbREtko)|GO|--- |  
+| --- |Calculates the nth percentile of a data set|[Percentiles](https://go.dev/play/p/UDNL1hsjDfg)|GO|---|   
 
