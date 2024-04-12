@@ -1,6 +1,6 @@
 ### Algebra
-| Source Code | Description | Language |
-| --- | --- | --- |    
-|[Quadratic Equation](https://www.mycompiler.io/view/Ev1vvlhcZDD)|Calculates the roots of quadratic equations|Fortran|  
-|[Pascal Triangle](https://www.mycompiler.io/view/CHwvFBXhFvG)|Printing the Pascal's Triangle recursively|Python|
-|[Pascal Triangle](https://www.mycompiler.io/view/9uysMB2epBT)|Printing the Pascal's triangle iteratively|C++|
+| Name | Description | Language | Run Online | Source Code |
+| --- | --- | --- | --- | --- |    
+| Quadratic Equation | Calculates the roots of quadratic equations | Fortran | [MyCompiler](https://www.mycompiler.io/view/Ev1vvlhcZDD) | --- |  
+| Pascal Triangle | Printing the Pascal's Triangle recursively | Python | [MyCompiler](https://www.mycompiler.io/view/CHwvFBXhFvG) | ---|
+| Pascal Triangle | Printing the Pascal's Triangle iteratively | C++ |[Pascal Triangle](https://www.mycompiler.io/view/9uysMB2epBT) |---|
